@@ -1,0 +1,31 @@
+.locations__container {
+  margin-top: 29.35px;
+  padding-left: 69px;
+  height: 90.65px;
+  max-width: 687px;
+}
+
+
+.locations__select {
+  border: 0;
+  border-radius: 50px;
+  width: 100%;
+  padding-left: 49px;
+  height: 90.65px;
+  background-color: #464979;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 36px;
+  line-height: 42.19px;
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: transparent;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='white' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position-x: 98%;
+  background-position-y: 10px;
+}
+
